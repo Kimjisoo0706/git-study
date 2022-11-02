@@ -2,8 +2,3 @@ add
 edit github
 thrid
 four
-dfdf
-dfdf
-dfdf
-dfdf
-dfdf
